@@ -1,0 +1,7 @@
+[build]
+command = "yarn build"
+build_output_directory = "dist"
+node_version = "18"
+
+[env]
+NODE_VERSION = "18" 
